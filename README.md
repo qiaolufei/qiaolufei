@@ -9,14 +9,28 @@
 #### 🤩技术栈
 
 <div style="display:flex">
-  
+
+<div style="width:10%">
+
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=F7DF1E)
+
+</div>
+<div style="width:10%">
 
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=007acc)
 
+</div>
+<div style="width:10%">
+
 ![](https://img.shields.io/badge/Code-Vue.js-informational?style=flat&logo=vue.js&logoColor=white&color=4FC08D)
 
+</div>
+<div style="width:10%">
+
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
+
+</div>
+
 
 </div>
 <div style="display:flex">
