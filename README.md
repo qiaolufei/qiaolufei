@@ -19,89 +19,42 @@
 <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB" />
 
 </div>
-
-
-</div>
 <div style="display:flex">
 
-<div>
 
 <img src="https://img.shields.io/badge/UI-Element-informational?style=flat&logo=element&logoColor=white&color=409eff" />
 
-</div>
-<div>
-
 <img src="https://img.shields.io/badge/UI-Vuetify-informational?style=flat&logo=vuetify&logoColor=white&color=1867C0" />
-
-</div>
-<div>
 
 <img src="https://img.shields.io/badge/UI-Layui-informational?style=flat&logo=Layui&logoColor=white&color=393C48" />
 
-</div>
-<div>
-
 <img src="https://img.shields.io/badge/UI-Echarts-informational?style=flat&logo=Echarts&logoColor=white&color=AA344D" />
-
-</div>
-<div>
 
 <img src="https://img.shields.io/badge/UI-G6-informational?style=flat&logo=G6&logoColor=white&color=7751F6" />
 
 </div>
-
-</div>
 <div style="display:flex">
-
-<div>
 
 <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=339933" />
 
-</div>
-<div>
-
 <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=3776AB" />
 
-</div>
-<div>
-
 <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=007396" />
-
-</div>
-<div>
 
 <img src="https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4479A1" />
 
 </div>
-
-</div>
 <div style="display:flex">
-
-<div>
 
 <img src="https://img.shields.io/badge/其它-ES6-informational?style=flat&logo=ES6&logoColor=white&color=F5DC1F" />
 
-</div>
-<div>
-
 <img src="https://img.shields.io/badge/其它-ESLint-informational?style=flat&logo=ES&logoColor=white&color=4B32C3" />
-
-</div>
-<div>
 
 <img src="https://img.shields.io/badge/其它-Less-informational?style=flat&logo=Less&logoColor=white&color=1D365D" />
 
-</div>
-<div>
-
 <img src="https://img.shields.io/badge/其它-Webpack-informational?style=flat&logo=Es&logoColor=white&color=8DD6F9" />
 
-</div>
-<div>
-
 <img src="https://img.shields.io/badge/其它-微信小程序-informational?style=flat&logo=Es&logoColor=white&color=7BB32E" />
-
-</div>
 
 </div>
 #### 🤗线上项目
