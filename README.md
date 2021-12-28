@@ -4,7 +4,7 @@
 一只天天进步的`前端开发工程师`，热爱前端开发，但不局限于前端开发
 
 - Email：`luffy0101@163.com`
-- WeChat：`qlc0607`
+- WeChat：`QLC_JJY`
 - CSDN： [乔路非](https://blog.csdn.net/qq_40731976)
 
 #### 🤩技术栈
